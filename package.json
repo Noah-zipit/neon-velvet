@@ -14,5 +14,6 @@
     "pngjs": "^6.0.0",
     "typescript": "^5.6.3",
     "vite": "^6.3.5"
-  }
+  },
+  "description": "NEON VELVET \u2014 neon-styled browser game (Vite + TypeScript)"
 }
