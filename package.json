@@ -15,5 +15,12 @@
     "typescript": "^5.6.3",
     "vite": "^6.3.5"
   },
-  "description": "NEON VELVET \u2014 neon-styled browser game (Vite + TypeScript)"
+  "description": "NEON VELVET \u2014 neon-styled browser game (Vite + TypeScript)",
+  "author": "Ashar Qaisar",
+  "keywords": [
+    "browser-game",
+    "neon",
+    "vite",
+    "typescript"
+  ]
 }
